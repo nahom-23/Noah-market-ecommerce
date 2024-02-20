@@ -1,0 +1,13 @@
+.login {
+  padding: 5px 10px;
+  letter-spacing: 3px;
+  border: 2px solid #f64c72;
+  background-color: transparent;
+  color: var(--secondary-color);
+  font-weight: 700;
+}
+
+.login:hover {
+  background-color: var(--secondary-color);
+  color: #fff;
+}
