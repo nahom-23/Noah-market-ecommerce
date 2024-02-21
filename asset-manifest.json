@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.a3da0a62.css",
-    "main.js": "/static/js/main.686ec1cd.js",
-    "static/media/wepik-export-20231031133934eJmC.png": "/static/media/wepik-export-20231031133934eJmC.092b5c7d8338aec6f206.png",
-    "static/media/Untitled design.png": "/static/media/Untitled design.541d9b934fb9fd430ac8.png",
-    "index.html": "/index.html",
-    "main.a3da0a62.css.map": "/static/css/main.a3da0a62.css.map",
-    "main.686ec1cd.js.map": "/static/js/main.686ec1cd.js.map"
+    "main.css": "/Noah-market-ecommerce/static/css/main.a3da0a62.css",
+    "main.js": "/Noah-market-ecommerce/static/js/main.1a9f4018.js",
+    "static/media/wepik-export-20231031133934eJmC.png": "/Noah-market-ecommerce/static/media/wepik-export-20231031133934eJmC.092b5c7d8338aec6f206.png",
+    "static/media/Untitled design.png": "/Noah-market-ecommerce/static/media/Untitled design.541d9b934fb9fd430ac8.png",
+    "index.html": "/Noah-market-ecommerce/index.html",
+    "main.a3da0a62.css.map": "/Noah-market-ecommerce/static/css/main.a3da0a62.css.map",
+    "main.1a9f4018.js.map": "/Noah-market-ecommerce/static/js/main.1a9f4018.js.map"
   },
   "entrypoints": [
     "static/css/main.a3da0a62.css",
-    "static/js/main.686ec1cd.js"
+    "static/js/main.1a9f4018.js"
   ]
 }
