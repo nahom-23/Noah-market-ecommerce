@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 const Cartpage = () => {
   const Globalstate = useContext(Cartcontext);
   const state = Globalstate.state;
-  console.log(state);
+  
   return (
     <div className="cart">
       {state.length != 0 ? (
